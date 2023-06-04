@@ -9,6 +9,7 @@ const get_channels = async () => {
   );
   const jsonData = await res.json();
 
+  // This will create a channelsObj with this format {youtube: www.youtube.com, website: www.website.com}
   jsonData.forEach((channel) => {
     channelsObj[channel.name.toLowerCase()] = channel.id;
   });
@@ -16,6 +17,8 @@ const get_channels = async () => {
 
 get_channels()
   .then((_) => {
+    // For every data of instructors, it will update the "social_links" to "channels" with the correct format like in Xano
+
     data.forEach((item) => {
       const social_link = item.social_links;
       const channels = [];
