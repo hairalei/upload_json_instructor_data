@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Maximilian Schwarzmüller",
+    "description": "AWS Certified Professional, Web Developer and Instructor. Udemy Instructor Partner with a total of 2,518,113 students and 944,708 reviews. Co-founder of Academind.",
+    "photo": "https://img-b.udemycdn.com/user/200_H/2644062_68a5.jpg",
+    "social_links": [
+      {
+        "id": 2,
+        "link": "https://academind.com/"
+      },
+      {
+        "id": 8,
+        "link": "https://twitter.com/maxedapps"
+      },
+      {
+        "id": 7,
+        "link": "https://www.facebook.com/academindchannel"
+      },
+      {
+        "id": 5,
+        "link": "https://linkedin.com/in/maximilian-schwarzmueller"
+      },
+      {
+        "id": 1,
+        "link": "https://www.youtube.com/c/academind"
+      }
+    ]
+  },
+  {
+    "name": "Jonas Schemdtmann",
+    "description": "Hi, I'm Jonas! I'm one of Udemy's Top Instructors and all my premium courses have earned the best-selling status for outstanding performance and student satisfaction.",
+    "photo": "https://img-b.udemycdn.com/user/200_H/2644062_68a5.jpg",
+    "social_links": [
+      {
+        "id": 2,
+        "link": "https://codingheroes.io/"
+      },
+      {
+        "id": 8,
+        "link": "https://twitter.com/jonasschmedtman"
+      },
+      {
+        "id": 1,
+        "link": "https://www.youtube.com/@jonasschmedtmann"
+      }
+    ]
+  }
+]
