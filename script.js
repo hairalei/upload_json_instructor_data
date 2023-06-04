@@ -9,7 +9,7 @@ const get_channels = async () => {
   );
   const jsonData = await res.json();
 
-  // This will create a channelsObj with this format {youtube: www.youtube.com, website: www.website.com}
+  // This will create a channelsObj with this format with names as keys and ids as values {youtube: 1, website: 2}
   jsonData.forEach((channel) => {
     channelsObj[channel.name.toLowerCase()] = channel.id;
   });
@@ -23,13 +23,12 @@ get_channels()
       const social_link = item.social_links;
       const channels = [];
 
+      // This will create a channels array/list with this format [{channel_id: 1, link: www.youtube.com}, {channel_id: 2, link: www.website.com}]
       for (const key in social_link) {
-        channels.push({ id: channelsObj[key], link: social_link[key] });
+        channels.push({ channel_id: channelsObj[key], link: social_link[key] });
       }
 
       item['social_links'] = channels;
-
-      console.log(item);
     });
   })
   .catch((err) => console.log(err))

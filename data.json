@@ -5,23 +5,23 @@
     "photo": "https://img-b.udemycdn.com/user/200_H/2644062_68a5.jpg",
     "social_links": [
       {
-        "id": 2,
+        "channel_id": 2,
         "link": "https://academind.com/"
       },
       {
-        "id": 8,
+        "channel_id": 8,
         "link": "https://twitter.com/maxedapps"
       },
       {
-        "id": 7,
+        "channel_id": 7,
         "link": "https://www.facebook.com/academindchannel"
       },
       {
-        "id": 5,
+        "channel_id": 5,
         "link": "https://linkedin.com/in/maximilian-schwarzmueller"
       },
       {
-        "id": 1,
+        "channel_id": 1,
         "link": "https://www.youtube.com/c/academind"
       }
     ]
@@ -32,15 +32,15 @@
     "photo": "https://img-b.udemycdn.com/user/200_H/2644062_68a5.jpg",
     "social_links": [
       {
-        "id": 2,
+        "channel_id": 2,
         "link": "https://codingheroes.io/"
       },
       {
-        "id": 8,
+        "channel_id": 8,
         "link": "https://twitter.com/jonasschmedtman"
       },
       {
-        "id": 1,
+        "channel_id": 1,
         "link": "https://www.youtube.com/@jonasschmedtmann"
       }
     ]
