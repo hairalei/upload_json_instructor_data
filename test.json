@@ -1,24 +1,30 @@
 [
   {
-    "name": "Maximilian Schwarzmüller",
-    "description": "AWS Certified Professional, Web Developer and Instructor. Udemy Instructor Partner with a total of 2,518,113 students and 944,708 reviews. Co-founder of Academind.",
-    "photo": "https://img-b.udemycdn.com/user/200_H/2644062_68a5.jpg",
-    "social_links": {
-      "website": "https://academind.com/",
-      "twitter": "https://twitter.com/maxedapps",
-      "facebook": "https://www.facebook.com/academindchannel",
-      "linkedin": "https://linkedin.com/in/maximilian-schwarzmueller",
-      "youtube": "https://www.youtube.com/c/academind"
-    }
+    "Name": "Prudviraj Perala",
+    "Photo": "https://img-b.udemycdn.com/user/200_H/166533130_04eb.jpg",
+    "Title": "Software developer",
+    "Bio": "<p>I am a self-taught software developer with a passion for exploring programming languages and building innovative applications that solve complex problems for people. With over 6 years of experience in software development, I have had the privilege of collaborating with multiple startups to create user-centric solutions. My expertise lies in various programming languages such as Python, C#, and HTML, which has enabled me to develop a range of applications from web-based software to mobile apps.</p><p>In addition, I am also interested in the intersection of AI and programming, and I am excited about the potential of Chat GPT technology in this area. As an AI language model myself, I believe that the combination of programming and AI has the potential to revolutionize how we solve problems and improve people's lives. With this in mind, I am constantly seeking to expand my knowledge of AI and explore new programming techniques to incorporate into my work.</p><p>Whether I am developing a new software application or exploring the latest advancements in Chat GPT technology, my ultimate goal is always to create solutions that have a positive impact on people's lives. I believe that by continuing to develop my skills in programming and AI, I can contribute to the development of transformative technologies that shape the future of our society</p>",
+    "Total students": "280",
+    "Reviews": "94",
+    "Website": "",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "https://www.linkedin.com/in/prudhviraj-perala-0969a6175/",
+    "Youtube": "",
+    "Number of courses": "8"
   },
   {
-    "name": "Jonas Schemdtmann",
-    "description": "Hi, I'm Jonas! I'm one of Udemy's Top Instructors and all my premium courses have earned the best-selling status for outstanding performance and student satisfaction.",
-    "photo": "https://img-b.udemycdn.com/user/200_H/2644062_68a5.jpg",
-    "social_links": {
-      "website": "https://codingheroes.io/",
-      "twitter": "https://twitter.com/jonasschmedtman",
-      "youtube": "https://www.youtube.com/@jonasschmedtmann"
-    }
+    "Name": "Rahul Dhingra",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/50143370_340a_4.jpg",
+    "Title": "Senior Full Stack Developer",
+    "Bio": "<p>I am<strong> Rahul Dhingra</strong>, a <strong>Senior Full stack developer</strong> have worked in Giant MNC to startup Company.</p><p>I have good experience in how to make Complete END to END Applications.</p><p>I have a good sense of what this IT industry looking for in any student or working professional.</p><p>So here at <strong>udemy </strong>I want to share my knowledge so that everyone gets benefitted and achieves the goal they have.</p><p><br></p><p><br></p>",
+    "Total students": "11,610",
+    "Reviews": "9",
+    "Website": "",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "3"
   }
 ]

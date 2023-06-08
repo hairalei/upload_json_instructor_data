@@ -1,48 +1,1146 @@
 [
   {
-    "name": "Maximilian Schwarzmüller",
-    "description": "AWS Certified Professional, Web Developer and Instructor. Udemy Instructor Partner with a total of 2,518,113 students and 944,708 reviews. Co-founder of Academind.",
-    "photo": "https://img-b.udemycdn.com/user/200_H/2644062_68a5.jpg",
-    "social_links": [
+    "Name": "Prudviraj Perala",
+    "Photo": "https://img-b.udemycdn.com/user/200_H/166533130_04eb.jpg",
+    "Title": "Software developer",
+    "Bio": "I am a self-taught software developer with a passion for exploring programming languages and building innovative applications that solve complex problems for people. With over 6 years of experience in software development, I have had the privilege of collaborating with multiple startups to create user-centric solutions. My expertise lies in various programming languages such as Python, C#, and HTML, which has enabled me to develop a range of applications from web-based software to mobile apps.In addition, I am also interested in the intersection of AI and programming, and I am excited about the potential of Chat GPT technology in this area. As an AI language model myself, I believe that the combination of programming and AI has the potential to revolutionize how we solve problems and improve people's lives. With this in mind, I am constantly seeking to expand my knowledge of AI and explore new programming techniques to incorporate into my work.Whether I am developing a new software application or exploring the latest advancements in Chat GPT technology, my ultimate goal is always to create solutions that have a positive impact on people's lives. I believe that by continuing to develop my skills in programming and AI, I can contribute to the development of transformative technologies that shape the future of our society",
+    "Total students": "280",
+    "Reviews": "94",
+    "Website": "",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "https://www.linkedin.com/in/prudhviraj-perala-0969a6175/",
+    "Youtube": "",
+    "Number of courses": "8",
+    "Channels": [
+      {
+        "channel_id": 5,
+        "link": "https://www.linkedin.com/in/prudhviraj-perala-0969a6175/"
+      }
+    ],
+    "students": 280
+  },
+  {
+    "Name": "Rahul Dhingra",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/50143370_340a_4.jpg",
+    "Title": "Senior Full Stack Developer",
+    "Bio": "I am Rahul Dhingra, a Senior Full stack developer have worked in Giant MNC to startup Company.I have good experience in how to make Complete END to END Applications.I have a good sense of what this IT industry looking for in any student or working professional.So here at udemy I want to share my knowledge so that everyone gets benefitted and achieves the goal they have.",
+    "Total students": "11,610",
+    "Reviews": "9",
+    "Website": "",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "3",
+    "Channels": [],
+    "students": 11610
+  },
+  {
+    "Name": "DioPACT SG",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/30024026_6982_2.jpg",
+    "Title": "SGLearn",
+    "Bio": "Dioworks is an e-learning design company focused on using technology as enablers to make learning easy, engaging and effective. Premised on innovative designs, pedagogy and research, we provide quality learning experiences for learners globally. Dioworks offers bespoke solutions for organisations to integrate learning, training and assessment of work-based competencies via blended learning strategies. We are also the local partner to Udemy in Singapore. \nMore specifically, we combine the strengths of Classroom-Facilitated Learning, Massive Open Online Courses (MOOCs) in partnership with UDEMY Inc, and our \"Kinetic Coach\" automated response training solution to achieve learning outcomes.",
+    "Total students": "61",
+    "Reviews": "19",
+    "Website": "",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "5",
+    "Channels": [],
+    "students": 61
+  },
+  {
+    "Name": "Hemanth kumar",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/145480566_775e_5.jpg",
+    "Title": "Data Scientist | AI Entrepreneur and Developer",
+    "Bio": "Hemanth Kumar has years of experience as a professional instructor and trainer for Data Science and programming. Over the course of his career he has developed a skill set in analyzing data and Design data modeling processes to create algorithms and predictive models and perform custom analysis and he hopes to use his experience in teaching data science and programming to help other people learn the power of programming the ability to analyze data, as well as present the data in clear and beautiful visualizations. Currently he works as  Data Scientist and provides in-person data science and programming training to employees working at top companies including HCL, IBM, Deloitte and many more. Feel free to contact him for more information on in-person training sessions or group training sessions.",
+    "Total students": "524,383",
+    "Reviews": "9,107",
+    "Website": "",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "4",
+    "Channels": [],
+    "students": 524383
+  },
+  {
+    "Name": "Dmitry Soshnikov",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/46642584_903a_2.jpg",
+    "Title": "Software engineer and Instructor",
+    "Bio": "Dmitry Soshnikov is a Software engineer and a lecturer on different computer science topics. He is passionate about education and focuses on high-quality educational content: concise and straight to the point animated lectures with live-editing notes.You will learn:- Compilers and interpreters: building a Programing language- Low-level Virtual Machines- Garbage Collectors (Automatic memory management)- Theory of programming languages- Automata Theory: Building a RegExp machine- Parsers theory and Parser Generators",
+    "Total students": "4,267",
+    "Reviews": "742",
+    "Website": "http://dmitrysoshnikov.com",
+    "Facebook": "",
+    "Twitter": "https://twitter.com/DmitrySoshnikov",
+    "LinkedIn": "",
+    "Youtube": "https://www.youtube.com/dmitrysoshnikov-education",
+    "Number of courses": "8",
+    "Channels": [
       {
         "channel_id": 2,
-        "link": "https://academind.com/"
+        "link": "http://dmitrysoshnikov.com"
       },
       {
         "channel_id": 8,
-        "link": "https://twitter.com/maxedapps"
+        "link": "https://twitter.com/DmitrySoshnikov"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/dmitrysoshnikov-education"
+      }
+    ],
+    "students": 4267
+  },
+  {
+    "Name": "Nico @softcademy",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/77305994_bfb9_2.jpg",
+    "Title": "IT | Web & Software developer | Teacher & Instructor",
+    "Bio": "Experienced Web Development Specialist with a demonstrated history of working in the information technology and services industry. Skilled in PHP, Python, Java, MySQL, Android studio, JavaScript, jQuery, and full-stack web development.  Master of Information Technology; ICDL instructor.From own experiences, we found out that learning from video tutorials is a very effective way of learning. Someone helped us with their video tutorials during our studies, now our video tutorials are made to help - The main reason you will find them at very low price.",
+    "Total students": "3,164",
+    "Reviews": "100",
+    "Website": "https://softcademy.pythonanywhere.com/",
+    "Facebook": "https://www.facebook.com/Softcademy-100534381883095",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "9",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "https://softcademy.pythonanywhere.com/"
       },
       {
         "channel_id": 7,
-        "link": "https://www.facebook.com/academindchannel"
-      },
-      {
-        "channel_id": 5,
-        "link": "https://linkedin.com/in/maximilian-schwarzmueller"
-      },
-      {
-        "channel_id": 1,
-        "link": "https://www.youtube.com/c/academind"
+        "link": "https://www.facebook.com/Softcademy-100534381883095"
       }
-    ]
+    ],
+    "students": 3164
   },
   {
-    "name": "Jonas Schemdtmann",
-    "description": "Hi, I'm Jonas! I'm one of Udemy's Top Instructors and all my premium courses have earned the best-selling status for outstanding performance and student satisfaction.",
-    "photo": "https://img-b.udemycdn.com/user/200_H/2644062_68a5.jpg",
-    "social_links": [
+    "Name": "The Table Of Bosses",
+    "Photo": "https://img-b.udemycdn.com/user/200_H/228742400_a953.jpg",
+    "Title": "Private Equity Firm | Business Instructors",
+    "Bio": "The Table Of Bosses Private Equity Firm is a leading firm in the private equity industry, founded in 2005 by a group of experienced investors with a shared vision to create long-term value for their investors. Over the years, the firm has established a reputation for excellence and has become a trusted partner for businesses looking to grow and achieve their full potential.In addition to its private equity activities, The Table Of Bosses is also dedicated to helping businesses succeed through education and training. The firm's team of expert business instructors provides customized training programs for entrepreneurs and executives, helping them develop the skills and knowledge they need to run successful businesses.The firm's philosophy is based on a commitment to building strong, long-term relationships with its portfolio companies. The Table Of Bosses works closely with its portfolio companies to develop and execute strategic plans that drive growth and profitability. The firm's team of seasoned professionals brings a wealth of experience and expertise to each investment, helping companies navigate complex business challenges and capitalize on opportunities for growth.The Table Of Bosses's track record speaks for itself, with a successful history of investing in a wide range of industries, including technology, healthcare, consumer products, and financial services. The firm's portfolio companies have achieved impressive results, including significant revenue growth, operational improvements, and successful exits.The Table Of Bosses is committed to building a better future through responsible investing practices. The firm is dedicated to environmental, social, and governance (ESG) considerations and seeks to invest in companies that are aligned with its values and principles.In summary, The Table Of Bosses Private Equity Firm is a leading firm in the private equity industry, known for its commitment to building strong, long-term relationships with its portfolio companies, providing customized business training programs, and driving value for its investors through responsible investing practices.",
+    "Total students": "5,111",
+    "Reviews": "584",
+    "Website": "",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "10",
+    "Channels": [],
+    "students": 5111
+  },
+  {
+    "Name": "Karthick S",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/77617488_5f4e_3.jpg",
+    "Title": "Full Stack - Software Developer",
+    "Bio": "I am Karthick.  I am a Full Stack Developer.  My skill sets are HTML5, CSS3, JavaScript, React js, Redux, Node js, Express js, MongoDB. I have Industrial experience as a Software Engineer.  I am very much interested to do projects in advanced technologies.  And I am passionate about creating online courses and teaching students.  ",
+    "Total students": "4",
+    "Reviews": "2",
+    "Website": "https://karthickdeveloper.wordpress.com",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "1",
+    "Channels": [
       {
         "channel_id": 2,
-        "link": "https://codingheroes.io/"
+        "link": "https://karthickdeveloper.wordpress.com"
+      }
+    ],
+    "students": 4
+  },
+  {
+    "Name": "Acad24 .",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/164941649_e67c_2.jpg",
+    "Title": "Learning Made Easy",
+    "Bio": "We make digital marketing &amp; web development courses to make your learning easy. We have over 10 years of experience in this field and ensure that you get the best courses to sharpen your skills. We have a team of content creators who create various levels of content to help you grow your skills and knowledge. ",
+    "Total students": "1,577",
+    "Reviews": "209",
+    "Website": "https://acad24.com/",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "4",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "https://acad24.com/"
+      }
+    ],
+    "students": 1577
+  },
+  {
+    "Name": "Robert Nana Sarpong",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/44297164_02a5_3.jpg",
+    "Title": "Instructor",
+    "Bio": "Hello , I'm Robert N. Sarpong, a full stack developer. Even though I teach, I also spend most of my day learning and building things with code. I enjoy coding and the challenge of learning something new everyday. I have worked with several languages like Javascript, React, PHP, Node JS, Java,C++,C,VB among others. With years of teaching experience, I will make sure I teach you easy yet effective ways to become a professional in no time!",
+    "Total students": "18,654",
+    "Reviews": "153",
+    "Website": "https://www.youtube.com/@robertsarpong",
+    "Facebook": "",
+    "Twitter": "https://twitter.com/lilnop3",
+    "LinkedIn": "https://linkedin.com/in/lilnop/",
+    "Youtube": "https://www.youtube.com/@robertsarpong",
+    "Number of courses": "5",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "https://www.youtube.com/@robertsarpong"
       },
       {
         "channel_id": 8,
-        "link": "https://twitter.com/jonasschmedtman"
+        "link": "https://twitter.com/lilnop3"
+      },
+      {
+        "channel_id": 5,
+        "link": "https://linkedin.com/in/lilnop/"
       },
       {
         "channel_id": 1,
-        "link": "https://www.youtube.com/@jonasschmedtmann"
+        "link": "https://www.youtube.com/@robertsarpong"
       }
-    ]
+    ],
+    "students": 18654
+  },
+  {
+    "Name": "Yossef Ayman Zedan",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/126872268_430f.jpg",
+    "Title": "Web Developer Expert",
+    "Bio": "I'm a web developer experienced for 6 years certified from university of Michigan and university of LondonI started programming since i was 11 years old, i wanted to know how they build these websites and now i'm a consultant certified from university of Michigan in the US and university of London in the UKI worked on 100+ Projects around the worldI'm experienced in HTML, CSS, JS, JQUERY and Bootstrap.If you're not sure that this course is suitable for you, you can send me an email or a message on my twitter to make sure.If you purchased the course and don't like it, you can get a refund within 30 days of purchasing the course.. So there is no worry to take the risk..We planned to make competitions every 100k students enroll into our courses, you can check our website and go to competitions to know more..Once you enroll into any of our courses.. You can email us to get free consultations----------------Your feedback really matters.. Give us this honor.",
+    "Total students": "65,028",
+    "Reviews": "135",
+    "Website": "https://yossefzedan.github.io/YossefZedan/",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "https://www.youtube.com/channel/UCKh2jf3Y0GcOHblGh6njw2w",
+    "Number of courses": "3",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "https://yossefzedan.github.io/YossefZedan/"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/channel/UCKh2jf3Y0GcOHblGh6njw2w"
+      }
+    ],
+    "students": 65028
+  },
+  {
+    "Name": "MCQ Master",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/3751448_e487_2.jpg",
+    "Title": "Mastering Interview Questions Answers with MCQ Master",
+    "Bio": "Hey there! Welcome to MCQ Master. We're a friendly team of instructors, developers, and industry professionals who are passionate about helping you master coding and ace your next tech interview.Our aim is to support students, job seekers, and professionals by providing top-notch quizzes, practice tests, and interview question answers that cover a wide variety of tech topics.Our interview question answers come with detailed descriptions, giving you a deeper understanding and the confidence to tackle any technical interview. We're always updating our content to make sure it's fresh and reflects the latest industry trends and best practices.Whether you're a coding newbie or a seasoned professional looking to level up, MCQ Master is the perfect platform for you. Join us on this exciting journey to become the best version of yourself in the tech world. Enroll now and unlock your full potential!",
+    "Total students": "6,489",
+    "Reviews": "65",
+    "Website": "https://bit.ly/3ZADXmD",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "18",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "https://bit.ly/3ZADXmD"
+      }
+    ],
+    "students": 6489
+  },
+  {
+    "Name": "ITPro TV",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/60504828_b471_3.jpg",
+    "Title": "Watch & Learn",
+    "Bio": "ITProTV delivers the IT instruction that you need to advance or launch your IT career in a fun and creative way. With attractive studios and an interactive, talk-show style format, you'll watch more and learn more. From CompTIA, Cisco, and Microsoft to Security and Cloud Fundamentals, you can learn it all. Dive deep into one or master many with the friendly faces of IT training.",
+    "Total students": "49,019",
+    "Reviews": "238",
+    "Website": "https://www.itpro.tv",
+    "Facebook": "https://www.facebook.com/ITProTV",
+    "Twitter": "https://twitter.com/ITProTV",
+    "LinkedIn": "https://linkedin.com/company/itprotv",
+    "Youtube": "https://www.youtube.com/user/ITProTVChannel",
+    "Number of courses": "11",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "https://www.itpro.tv"
+      },
+      {
+        "channel_id": 7,
+        "link": "https://www.facebook.com/ITProTV"
+      },
+      {
+        "channel_id": 8,
+        "link": "https://twitter.com/ITProTV"
+      },
+      {
+        "channel_id": 5,
+        "link": "https://linkedin.com/company/itprotv"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/user/ITProTVChannel"
+      }
+    ],
+    "students": 49019
+  },
+  {
+    "Name": "Salvatore Aetos",
+    "Photo": "https://img-b.udemycdn.com/user/200_H/178487091_565b_2.jpg",
+    "Title": "Professional Web Developer and Teacher",
+    "Bio": "Hi! I am Salvatore. Over 10 years experience in different programming languages. I am a full stack developer. Having interest in teaching web based languages. Providing you the best courses from beginners to advance in HTML, CSS, Javascript, Python and C# including the frameworks and libraries. I break down the information and techniques where students can easily understand it. ",
+    "Total students": "14",
+    "Reviews": "1",
+    "Website": "",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "3",
+    "Channels": [],
+    "students": 14
+  },
+  {
+    "Name": "OnlyKiosk Tech",
+    "Photo": "https://img-b.udemycdn.com/user/200_H/16682912_0193_2.jpg",
+    "Title": "Provide Effective Coding Training",
+    "Bio": "Stop hiding unwanted things in mist (Jordan Peterson, Beyond Order). Shake off the dead weight that slows you down. Your time is limited, and you have other things going on in your life. More likely than not, you will only get busier as time goes by. New technologies show up everyday. Existing ones keep upgrading, adopting new features, switching to new syntaxes. For you to stay relevant, you have to keep learning. Most importantly, you must do so quickly and easily, without spending too much time or making too much effort. Otherwise, you won't keep up with the rapid tech progress, and your life as a programmer would be too painful as you are constantly struggling with learning something new. It seems that you are caught in a dilemma where there is a lot to learn but not enough time to do it. The programming world emphasizes reusing codes. You, as a programmer, must \"reuse\" learning experience. The experience of learning one programming technology should enable you to pick up another one with less time and effort. In order to do so, you must disperse the mist and remove all the \"unwanted things\" you hide there. The \"unwanted things hidden in the mist\" are the insufficient understanding of a coding language or framework. You have never dug deep enough, all you have done is copying what the manual says. When things get complicated, you won't be able to come up with a solution. ",
+    "Total students": "24,503",
+    "Reviews": "2,959",
+    "Website": "https://medium.com/@onlykiosk",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "https://www.youtube.com//channel/UCMAosn3620u4je4UQ4X3F1Q",
+    "Number of courses": "12",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "https://medium.com/@onlykiosk"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com//channel/UCMAosn3620u4je4UQ4X3F1Q"
+      }
+    ],
+    "students": 24503
+  },
+  {
+    "Name": "Mike M",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/429094_664e.jpg",
+    "Title": "Software developer",
+    "Bio": "I am a Software developer with a degree in Electrical Engineering and over three years of software development experience. I use Javascript and several other software development tools on a daily basis. I have experience with HTML5, CSS3, Angular, Ember, React, Vue.js, Go, MySql, Python, Node.js, Express.js and various other development tools. I enjoy coding and sharing my knowledge with others.",
+    "Total students": "9,852",
+    "Reviews": "365",
+    "Website": "https://codixir.com",
+    "Facebook": "https://www.facebook.com/codixir",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "https://www.youtube.com/codixir",
+    "Number of courses": "2",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "https://codixir.com"
+      },
+      {
+        "channel_id": 7,
+        "link": "https://www.facebook.com/codixir"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/codixir"
+      }
+    ],
+    "students": 9852
+  },
+  {
+    "Name": "Bill Coloe",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/5608574_bec5.jpg",
+    "Title": "Front End Developer",
+    "Bio": "Hi! I'm Bill Coloe, and you might have seen me on TikTok, Twitter, or on my blog. I started my development career in 2013, first learning a little Ruby on Rails before going all in on JavaScript. I've had the pleasure of working as a 3rd party Front-End Developer for a digital optimization agency, developing client-side AB tests for Fortune 500 websites.Since so much of my work has been developing outside the context of a client's source code, I've developed a knack for understanding what's under the hood of websites and have become more skilled in how to debug front-end applications. I hope the techniques and practice this course provides will prove beneficial to your skillset and career!",
+    "Total students": "17",
+    "Reviews": "1",
+    "Website": "",
+    "Facebook": "",
+    "Twitter": "https://twitter.com/JS_Bits_Bill",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "1",
+    "Channels": [
+      {
+        "channel_id": 8,
+        "link": "https://twitter.com/JS_Bits_Bill"
+      }
+    ],
+    "students": 17
+  },
+  {
+    "Name": "Dominique Canlas",
+    "Photo": "https://img-b.udemycdn.com/user/200_H/201133942_922b.jpg",
+    "Title": "Software Engineer and Entrepreneur",
+    "Bio": "I got into coding because of my love for video games! But, I never really did any programming until I got into college. Fast forward to now, I have more than a decade of software engineering experience specializing in Front End/UI Engineering. I also love mentoring and instructing, and I do mock interviews and coaching on the side for new software developers starting out in their careers. I have worked for companies like Meta and Roblox and would like to think that I had some impact on the development of their products and applications.I love learning new things and meeting people. So when you get a chance, connect with me via LinkedIn and say hi! Or, checkout some of my coding related content in my YouTube channel (SnippetzJS).",
+    "Total students": "118",
+    "Reviews": "10",
+    "Website": "",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "https://linkedin.com/dcanlas",
+    "Youtube": "https://www.youtube.com/SnippetzJS",
+    "Number of courses": "1",
+    "Channels": [
+      {
+        "channel_id": 5,
+        "link": "https://linkedin.com/dcanlas"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/SnippetzJS"
+      }
+    ],
+    "students": 118
+  },
+  {
+    "Name": "Kazi Ariyan",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/15663854_c950_2.jpg",
+    "Title": "Web Developer, Entrepreneur, Online Instructor",
+    "Bio": "Hi! I'm Kazi Ariyan. I'm a web developer with a serious love for teaching I am a founder of eLe easy Learning and a passionate Web Developer, Programmer &amp; Instructor. I am working online for the last 7 years and have created several successful websites running on the internet. I try to create a project-based course that helps you to learn professionally and make you fell as a complete developer. easy learning exists to help you succeed in life.Each course has been hand-tailored to teach a specific skill. I hope you agree! Whether you’re trying to learn a new skill from scratch or want to refresh your memory on something you’ve learned in the past, you’ve come to the right place.Education makes the world a better place. Make your world better with new skills.",
+    "Total students": "61,511",
+    "Reviews": "8,121",
+    "Website": "https://www.easylearningbd.com/",
+    "Facebook": "https://www.facebook.com/kaziariyanbd/",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "https://www.youtube.com/channel/UCBzcZLh8xXXr61hftCCT3wQ?view_as=subscriber",
+    "Number of courses": "22",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "https://www.easylearningbd.com/"
+      },
+      {
+        "channel_id": 7,
+        "link": "https://www.facebook.com/kaziariyanbd/"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/channel/UCBzcZLh8xXXr61hftCCT3wQ?view_as=subscriber"
+      }
+    ],
+    "students": 61511
+  },
+  {
+    "Name": "Laurence Svekis",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/5581552_b409_26.jpg",
+    "Title": "Instructor, GDE, Application Developer",
+    "Bio": "I'm here to help you learn, achieve your dreams, come join me on this amazing adventure todayGoogle Developers Expert - GSuite Providing Web development courses and digital marketing strategy courses since 2002.Innovative technology expert with a wide range of real world experience. Providing Smart digital solutions online for both small and enterprise level businesses.\"I have a passion for anything digital technology related, enjoy programming and the challenge of developing successful digital experiences. As an experienced developer, I created my first computer applications in 1990, and my first website in 1998.  I enjoy sharing my knowledge with others and want to help you share in the wonderful opportunities that the internet provides.\"\"Learning, understanding with a strong passion for education.  The internet has provided us with new opportunities to expand and share knowledge.\"Want to learn more about becoming a web developer, do you want to experience the freedom that technology provides for us? Learn how to bring amazing things to life online.  Technology connects us all in many ways.  It opens up doors to those who embrace it and learn how to make those connections real.\"My courses are designed to help you achieve your goals, learn and update skills\"Background : An experienced web application developer, having worked on multiple enterprise level applications, hundreds of websites, business solutions and many unique and innovative web applications.  Web application development areas of expertise include HTML, CSS, JavaScript, JQuery, Bootstrap, PHP and MySQL. Anything to do with web creation and digital experience. Passionate about everything to do with web application development, programming to online marketing with a strong focus on social media and SEO. \"Understanding technology provides a means to better connect with users.  It also opens so many doors.   Knowledge is the key to success and I want to help you experience what technology has to offer. I'm passionate about web technologies, and look forward to sharing my knowledge and experience with you!\"",
+    "Total students": "937,140",
+    "Reviews": "59,184",
+    "Website": "https://basescripts.com/",
+    "Facebook": "https://www.facebook.com/svekislaurence/",
+    "Twitter": "https://twitter.com/lsvekis",
+    "LinkedIn": "https://linkedin.com/in/svekis",
+    "Youtube": "https://www.youtube.com/channel/UCgsZ8_79Eclct_VDoql_Dwg",
+    "Number of courses": "326",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "https://basescripts.com/"
+      },
+      {
+        "channel_id": 7,
+        "link": "https://www.facebook.com/svekislaurence/"
+      },
+      {
+        "channel_id": 8,
+        "link": "https://twitter.com/lsvekis"
+      },
+      {
+        "channel_id": 5,
+        "link": "https://linkedin.com/in/svekis"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/channel/UCgsZ8_79Eclct_VDoql_Dwg"
+      }
+    ],
+    "students": 937140
+  },
+  {
+    "Name": "Elisabeth Robson",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/21617_fc53_2.jpg",
+    "Title": "Co-founder and Principal at WickedlySmart",
+    "Bio": "Elisabeth Robson is a co-founder and principal at WickedlySmart, an author, and software developer, and teaches online courses for for O'Reilly Media and LinkedIn Learning. She's the co-author of four best-selling titles--Head First JavaScript Programming, Head First Design Patterns, Head First HTML &amp; CSS, and Head First HTML5 Programming--and previously the Director of Special Projects and co-director of the Head First series at O'Reilly Media. Prior to her work at O'Reilly Media, Elisabeth was Director of Engineering at The Walt Disney Company. Elisabeth holds a Master's Degree in Computer Science from Yale University.  ",
+    "Total students": "3,059",
+    "Reviews": "218",
+    "Website": "",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "6",
+    "Channels": [],
+    "students": 3059
+  },
+  {
+    "Name": "Infinite Skills",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/39032_bdc3_5.jpg",
+    "Title": "High Quality Training",
+    "Bio": "Infinite Skills is a Canadian based company who offer a huge and ever growing range of high quality eLearning solutions that teach using studio quality narrated videos backed-up with practical hands-on examples and comprehensive working files. All courses are created by trained educators and experts in video based education.The emphasis is on teaching real life skills that are essential for progressing in today's commercial environment. ",
+    "Total students": "1,324,908",
+    "Reviews": "128,403",
+    "Website": "http://www.infiniteskills.com",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "323",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "http://www.infiniteskills.com"
+      }
+    ],
+    "students": null
+  },
+  {
+    "Name": "Reece Kenney",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/10842288_1748_4.jpg",
+    "Title": "Software Engineer at Microsoft",
+    "Bio": "Hi there! My name is Reece Kenney, and I’m from Rugby, England. I currently work as a Software Engineer at Microsoft where I spend my days doing a range of front end and back end development using languages such as JavaScript, TypeScript and C# to name a few! Through my work at Microsoft, I have a lot of experience developing products that are used by millions of people every day! I’m also fortunate enough to work alongside some of the best and brightest software engineers in the world. I’m here on Udemy to share my knowledge with as many people as possible and hopefully make a difference in people’s lives. I love to teach and can’t wait to personally guide you towards your own personal goals! If you take any of my courses, you’ll have my full support every step of the way! ",
+    "Total students": "32,753",
+    "Reviews": "8,920",
+    "Website": "http://reecekenney.com",
+    "Facebook": "https://www.facebook.com/reecekenney50",
+    "Twitter": "https://twitter.com/ReeceKenney50",
+    "LinkedIn": "https://linkedin.com/in/reecekenney",
+    "Youtube": "https://www.youtube.com/c/ReeceKenney",
+    "Number of courses": "9",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "http://reecekenney.com"
+      },
+      {
+        "channel_id": 7,
+        "link": "https://www.facebook.com/reecekenney50"
+      },
+      {
+        "channel_id": 8,
+        "link": "https://twitter.com/ReeceKenney50"
+      },
+      {
+        "channel_id": 5,
+        "link": "https://linkedin.com/in/reecekenney"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/c/ReeceKenney"
+      }
+    ],
+    "students": 32753
+  },
+  {
+    "Name": "Ewomazino Akpareva",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/59433631_c1fc_2.jpg",
+    "Title": "Web Developer",
+    "Bio": "Hi, I'm zino.I'm a web developer who is passionate about teaching and helping people understand the core concepts of web development and other technologies.I know what it feels like to take a course and still feel a disconnect between what you learnt in the course and what is expected in the real world.This is why I create practical courses that are based on what is obtainable out there.Join me in any of my courses and I would be glad to be part of your journey in tech.Cheers...",
+    "Total students": "6,388",
+    "Reviews": "805",
+    "Website": "https://zinotrustacademy.com/",
+    "Facebook": "",
+    "Twitter": "https://twitter.com/ZinoTrust",
+    "LinkedIn": "https://linkedin.com/in/zinotrust/",
+    "Youtube": "https://www.youtube.com//channel/UClXxZm-GQr4S-NsHGIXgg4Q?view_as=subscriber",
+    "Number of courses": "8",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "https://zinotrustacademy.com/"
+      },
+      {
+        "channel_id": 8,
+        "link": "https://twitter.com/ZinoTrust"
+      },
+      {
+        "channel_id": 5,
+        "link": "https://linkedin.com/in/zinotrust/"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com//channel/UClXxZm-GQr4S-NsHGIXgg4Q?view_as=subscriber"
+      }
+    ],
+    "students": 6388
+  },
+  {
+    "Name": "Mammoth Interactive",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/22923344_6365_5.jpg",
+    "Title": "Top-Rated Instructor, 3.3 Million+ Students",
+    "Bio": "Mammoth Interactive is a leading online course provider in everything from learning to code to becoming a YouTube star. Mammoth Interactive courses have been featured on Harvard’s edX, Business Insider and more.Over 11 years, Mammoth Interactive has built a global student community with 3.3 million courses sold. Mammoth Interactive has released over 300 courses and 3,000 hours of video content.Founder and CEO John Bura has been programming since 1997 and teaching since 2002. John has created top-selling applications for iOS, Xbox and more. John also runs SaaS company Devonian Apps, building efficiency-minded software for technology workers like you.\"I absolutely love this course. This is such a comprehensive course that was well worth the money I spent and a lot more. Will definitely be looking at more Mammoth Interactive courses when I finish this.\" – Student Matt W.\"Very good at explaining the basics then building to more complex features.\" – Student Kevin L.Try a course today.",
+    "Total students": "382,978",
+    "Reviews": "11,922",
+    "Website": "https://training.mammothinteractive.com/",
+    "Facebook": "https://www.facebook.com/mammothcompany",
+    "Twitter": "https://twitter.com/mammothcompany",
+    "LinkedIn": "https://linkedin.com/in/johnbura",
+    "Youtube": "https://www.youtube.com/mammothinteractive?sub_confirmation=1",
+    "Number of courses": "276",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "https://training.mammothinteractive.com/"
+      },
+      {
+        "channel_id": 7,
+        "link": "https://www.facebook.com/mammothcompany"
+      },
+      {
+        "channel_id": 8,
+        "link": "https://twitter.com/mammothcompany"
+      },
+      {
+        "channel_id": 5,
+        "link": "https://linkedin.com/in/johnbura"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/mammothinteractive?sub_confirmation=1"
+      }
+    ],
+    "students": 382978
+  },
+  {
+    "Name": "Domenic Corso",
+    "Photo": "https://img-b.udemycdn.com/user/200_H/46194384_3e85_4.jpg",
+    "Title": "Full Stack Web Developer",
+    "Bio": "I'm a full stack web developer from Australia with a passion for software development and teaching people how to code.I started coding when I was 15 years old and have been loving it ever since. Since then, my focus has been developing software for the web.My area of expertise is HTML, CSS, JavaScript, OOP, SQL and various other web development technologies.",
+    "Total students": "488",
+    "Reviews": "37",
+    "Website": "",
+    "Facebook": "",
+    "Twitter": "https://twitter.com/dcodeyt",
+    "LinkedIn": "",
+    "Youtube": "https://www.youtube.com/dcode-software",
+    "Number of courses": "3",
+    "Channels": [
+      {
+        "channel_id": 8,
+        "link": "https://twitter.com/dcodeyt"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/dcode-software"
+      }
+    ],
+    "students": 488
+  },
+  {
+    "Name": "Jan Guardian",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/38031740_5a47_3.jpg",
+    "Title": "Full-Stack Web Developer | Instructor",
+    "Bio": "Hi, I’m Jan and I’m a senior full-stack developer. I have 15 years of experience in frontend and backend development. I started programming in an era way before HTML5 and preprocessors, when the current ECMAScript standard was ECMAScript 3 of 1999, and PHP was your backend language of choice for any web application. Programming for the web has changed significantly throughout these 15 years, and so have I — all this time I have been keeping pace with new developments, learning new standards, studying emerging frameworks, and comprehending new paradigms.I’ve had a chance to work with small, medium-sized, and large service and product-oriented IT companies both as an independent contractor and as an employee, having developed a range of web applications from scratch both single-handedly and as part of a team. The knowledge and skills that I have accumulated during this time coupled with my passion for teaching made me very much eager to both apply them in various web development projects and share them with aspiring web developers. I feel confident in my ability to help software development companies all around the globe in implementing their endeavours whatever complexity the latter might have.",
+    "Total students": "21",
+    "Reviews": "4",
+    "Website": "",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "https://linkedin.com/janguardian",
+    "Youtube": "",
+    "Number of courses": "1",
+    "Channels": [
+      {
+        "channel_id": 5,
+        "link": "https://linkedin.com/janguardian"
+      }
+    ],
+    "students": 21
+  },
+  {
+    "Name": "Donatus Obomighie",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/16223324_5005_6.jpg",
+    "Title": "Instructor & Engineer",
+    "Bio": "In the complex maze of learning, the road to comprehension can occasionally be more twisted than necessary. I'm Donatus, a seasoned traveler on these convoluted routes. The countless hours I invested in dissecting complicated problems, only to later discover simpler answers, brought me to an important understanding: the challenge in learning often originates not from the subject matter itself, but from the way it's presented. The roots of misunderstanding were often planted by unnecessarily complex explanations when simple ones would suffice. This insight triggered a crucial question in my mind: \"Why aren't these easier, more intuitive methods imparted to learners right from the beginning?This burning question was the impetus that drove me to become an educator. Determined to save students from the unnecessary confusion that I had faced, I sought to redefine the teaching process, to make learning the enjoyable and enlightening journey it should be.As a seasoned professional in Computer Science with a rich spectrum of technical and management knowledge, I've held roles across various industries, accumulating a blend of expertise and strategic insight. Today, I employ these skills to demystify complex concepts, presenting them to my students in a clear, understandable manner.In my teaching journey spanning various cultural contexts including India, Singapore, and Malaysia, I have worked to make each lesson unique, memorable, and most importantly, effective. I take pride in my approach that bridges theory and practice, ensuring students not only understand but can apply their knowledge. The success of my students post-completion of my courses stands as a testament to the efficacy of my methods.I am a firm believer in lifelong learning, a belief reflected in my extensive collection of professional certifications across a wide array of disciplines. This relentless pursuit of knowledge allows me to stay abreast of the latest industry trends and enhance the wealth of information I can offer my students.As an educator, my mission is to empower learners with the knowledge and practical skills they need to excel in their chosen fields. I create courses that promote immersive, hands-on learning, firmly believing that true understanding arises from engaging with the material.If you value a learning experience that prioritizes clarity and simplicity, then I invite you to join me in this journey of continuous discovery and growth. ",
+    "Total students": "5,671",
+    "Reviews": "828",
+    "Website": "",
+    "Facebook": "https://www.facebook.com/Don-OB-106963698352942",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "13",
+    "Channels": [
+      {
+        "channel_id": 7,
+        "link": "https://www.facebook.com/Don-OB-106963698352942"
+      }
+    ],
+    "students": 5671
+  },
+  {
+    "Name": "Infinity Knowledge",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/216553456_9baf_3.jpg",
+    "Title": "Acquire the Skills That Are in High Demand.",
+    "Bio": "Infinity Knowledge will teach you in-demand skills to help you get hired, advance your career, and succeed at the top companies in the world, no matter where you are in your learning journey.Flexibility in time commitment is required for this course. From the very basics of programming to the most advanced ideas, this course covers it all.Create a portfolio. You won't just be reading about or practicing what you learn, like in most free tutorials and online courses; instead, you'll be creating your own professional portfolio and implementing what you learn in complex, real-world projects.Increase the size of your circle of contacts. Discover your next step, make a crucial connection, and maybe even find a business partner.Find a job. You will be prepared to interview with any company imaginable and succeed in doing so.Gain prominence, and work your way into the top 10 percent. If you're looking to further your education and career, look no further than the intermediate and advanced courses we offer.Never stop learning and developing. In order to provide you with the most up-to-date information and keep you one step ahead of the competition, we regularly release new courses and add new content to existing courses.",
+    "Total students": "1,490",
+    "Reviews": "19",
+    "Website": "",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "2",
+    "Channels": [],
+    "students": 1490
+  },
+  {
+    "Name": "Ivan Lourenço Gomes",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/28208536_78ad_18.jpg",
+    "Title": "Top-Rated Tech Instructor",
+    "Bio": "Ivan is a top Udemy instructor currently teaching 20 courses in 4 languages with 430.000+ students worldwide.Ivan has 16 years of experience in various business and technology areas and has been sharing his knowledge with students and professionals from all over the world since 2016.He became famous for his hands-on and easy-to-grasp teaching style using techniques that can benefit students from all levels, from complete beginners to advanced professionals.Some of his courses include:• HTML / CSS• Javascript• Git• Vue JS, Vue Router and Vuex• PHP• Microsoft Excel• Web Design• Invision Studio• Python &amp; Machine Learning• Business English, Email Writing and EtiquettePick your course and start growing your career!",
+    "Total students": "439,123",
+    "Reviews": "32,508",
+    "Website": "https://www.dawebschools.com/",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "https://linkedin.com/in/ivan-lourenço-gomes-07694956/",
+    "Youtube": "https://www.youtube.com/@dawebschools",
+    "Number of courses": "21",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "https://www.dawebschools.com/"
+      },
+      {
+        "channel_id": 5,
+        "link": "https://linkedin.com/in/ivan-lourenço-gomes-07694956/"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/@dawebschools"
+      }
+    ],
+    "students": 439123
+  },
+  {
+    "Name": "Nevyan Neykov",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/26438674_7978.jpg",
+    "Title": "Mentor, Web Developer, and Linux Administrator",
+    "Bio": "Nevyan mentors students and professionals from all around the world. He is involved in development and server administration for around 20 years, working in various companies dealing mainly with PHP, JavaScript, TypeScript and Angular, exploring new aspects of the JavaScript language, as well as the Angular, Vue, and React frameworks and their application in practice.From the system administration he is interested in: Linux System Administration, OpenStack, Docker and Kubernetes technologies.",
+    "Total students": "9,253",
+    "Reviews": "235",
+    "Website": "https://nevyan.blogspot.com",
+    "Facebook": "https://www.facebook.com/nevyan.neykov",
+    "Twitter": "",
+    "LinkedIn": "https://linkedin.com/in/nevyan-neykov",
+    "Youtube": "https://www.youtube.com/c/NevyanNeykov/",
+    "Number of courses": "14",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "https://nevyan.blogspot.com"
+      },
+      {
+        "channel_id": 7,
+        "link": "https://www.facebook.com/nevyan.neykov"
+      },
+      {
+        "channel_id": 5,
+        "link": "https://linkedin.com/in/nevyan-neykov"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/c/NevyanNeykov/"
+      }
+    ],
+    "students": 9253
+  },
+  {
+    "Name": "Oak Academy",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/63572698_2c48_7.jpg",
+    "Title": "Web & Mobile Development, IOS, Android, Ethical Hacking, IT",
+    "Bio": "Hi there,By 2024, there will be more than 1 million unfilled computing jobs and the skills gap is a global problem. This was our starting point.At OAK Academy, we are the tech experts who have been in the sector for years and years. We are deeply rooted in the tech world. We know the tech industry. And we know the tech industry's biggest problem is the “tech skills gap” and here is our solution.OAK Academy will be the bridge between the tech industry and people who-are planning a new career-are thinking career transformation-want career shift or reinvention,-have the desire to learn new hobbies at their own paceBecause we know we can help this generation gain the skill to fill these jobs and enjoy happier, more fulfilling careers. And this is what motivates us every day.We specialize in critical areas like cybersecurity, coding, IT, game development, app monetization, and mobile. Thanks to our practical alignment we are able to constantly translate industry insights into the most in-demand and up-to-date courses,OAK Academy will provide you the information and support you need to move through your journey with confidence and ease.Our courses are for everyone. Whether you are someone who has never programmed before, or an existing programmer seeking to learn another language, or even someone looking to switch careers we are here.OAK Academy here to transforms passionate, enthusiastic people to reach their dream job positions.If you need help or if you have any questions, please do not hesitate to contact our team.",
+    "Total students": "299,774",
+    "Reviews": "34,253",
+    "Website": "https://oakacademy.uk",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "272",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "https://oakacademy.uk"
+      }
+    ],
+    "students": 299774
+  },
+  {
+    "Name": "Lamassu Academy",
+    "Photo": "https://img-b.udemycdn.com/user/200_H/218349774_e32a.jpg",
+    "Title": "full stack web developer",
+    "Bio": "Mathematics and physics teacher for more than a decade. 5 years programming experience.I have stydyed math and physics at university for 5 years after that  I become a teacher for over a decade. Then I statred teaching my self how to program and now I work for a Dutch company as a full stack web developer.",
+    "Total students": "2,001",
+    "Reviews": "4",
+    "Website": "",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "2",
+    "Channels": [],
+    "students": 2001
+  },
+  {
+    "Name": "Ian Robinson",
+    "Photo": "https://img-b.udemycdn.com/user/200_H/11279032_42fc_5.jpg",
+    "Title": "Small Business Owner, Podcast Producer & Software Developer",
+    "Bio": "In 2010 I started a company called the Freedom Podcasting Company. At Freedom Podcasting, we work with clients to help them produce and publish podcasts. Our clients do the recording, we do everything else to make their show's look professional. We have produced thousands of podcast episodes for many well known and niche clients. To get an idea for our work, please explore the Freedom Podcasting website.As a software engineer, Ian works has worked with teams to develop educational platforms, marketplace application and large multi-national clinical trial applications. I'm a big fan of Ruby on Rails, React, Vue &amp; NodeJS. I'm slowly beginning to understand and enjoy type safe languages like Go and TypeScript.",
+    "Total students": "8,067",
+    "Reviews": "696",
+    "Website": "http://freedompodcasting.com",
+    "Facebook": "https://www.facebook.com/FreedomPodcasting",
+    "Twitter": "https://twitter.com/independentian",
+    "LinkedIn": "https://linkedin.com/company/freedom-podcasting-company",
+    "Youtube": "https://www.youtube.com/channel/UCAocVBB14ixYUfdhKaSrvNQ",
+    "Number of courses": "4",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "http://freedompodcasting.com"
+      },
+      {
+        "channel_id": 7,
+        "link": "https://www.facebook.com/FreedomPodcasting"
+      },
+      {
+        "channel_id": 8,
+        "link": "https://twitter.com/independentian"
+      },
+      {
+        "channel_id": 5,
+        "link": "https://linkedin.com/company/freedom-podcasting-company"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/channel/UCAocVBB14ixYUfdhKaSrvNQ"
+      }
+    ],
+    "students": 8067
+  },
+  {
+    "Name": "Vertex Academy",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/20481058_22cf_2.jpg",
+    "Title": "Team of Developers and Bootcamp Instructors",
+    "Bio": "Hi! Our courses have been developed by a truly international team. The team members are experts in all popular programming languages (including JavaScript, Python, Java and PHP) and have degrees from some of the most well respected universities in the world. They have also been working at prestigious tech companies for 10+ years and have been conducting online and offline professional web development bootcamps for 6+ years.If you are looking for truly professional teachers who will take you by the hand and lead you through the intricate world of web development, you have come to the right place.We are madly passionate about properly teaching and preparing you, the future web developers of the world, for success in your career.This is why we always make sure that:1. Our courses are always up-to-date, which means we constantly re-record lessons.2. We operate at optimum efficiency. 1 hour of our courses = 5 hours of other instructors’ courses. Therefore, you spend less time to understand each concept.3. Our lessons are exceedingly concise simply because we spend enormous amounts of time on planning each lesson, creating animations, etc. Some might say this makes us geeks :)4. We respond to absolutely every question our students ask. The responses are thoroughly detailed. 5. We teach step by step, showing you how to build complex projects from scratch. This ensures that you gain the real experience of building projects, as you would if you were already working for a tech company.We have already helped thousands of students get their first job in web development. Our students work at top IT companies all over the world, as well as being successful freelancers.Join us and we will be happy to help you! We will be with you every step of the way.",
+    "Total students": "12,971",
+    "Reviews": "1,548",
+    "Website": "https://vertex-academy.com/en",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "https://www.youtube.com/channel/UCAWvXxY6tDBnTghPlhCKtmw/featured",
+    "Number of courses": "3",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "https://vertex-academy.com/en"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/channel/UCAWvXxY6tDBnTghPlhCKtmw/featured"
+      }
+    ],
+    "students": 12971
+  },
+  {
+    "Name": "Michael Eramo",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/13707012_7a2e.jpg",
+    "Title": "Educator, Master Teacher, Self-Taught Programmer",
+    "Bio": "Hello, my name is Michael Eramo.  I am a life long learner, a self-taught programmer, and an experienced educator.  I hold official Bachelor's degrees in Music, Education, and Physics, as well as a Masters degree in Mathematics.  I also hold a certificate in Software Development from Microsoft.  I have years of experience as a high school Physics teacher, Computer Science Teacher, and college Mathematics teacher.  I am part of the New York State Master Teacher Program  a network of more than 800 outstanding public school teachers throughout the state who share a passion for their own STEM learning and for collaborating with colleagues to inspire the next generation of STEM leaders.I am passionate about learning new things and teaching what I know to those around me in a way that is engaging, meaningful, and with purpose.  ",
+    "Total students": "169,109",
+    "Reviews": "3,741",
+    "Website": "http://www.theartofdoingcs.com",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "15",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "http://www.theartofdoingcs.com"
+      }
+    ],
+    "students": 169109
+  },
+  {
+    "Name": "Steven Hancock",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/737861_677d.jpg",
+    "Title": "Owner All Things JavaScript",
+    "Bio": "I have had 25+ years experience in training and product development and 20+ years working with JavaScript. I started learning JavaScript when it was a new language used for minor affects on a web site. The growth and ubiquitous nature of JavaScript both excites and inspires me.I currently work as the President and Lead Trainer at All Things JavaScript, a resource for anyone and everyone that hopes to increase their JavaScript skills and move from novice to expert.I'm doing what I love most: Teaching about technical subjects. It is so important to understand the why, not just the what and how, when it comes to technical subjects. My goal is to help thousands of JavaScript developers to get started and become experts in the field making a great living coding.I was the co-owner and President of Rapid Intake, an eLearning firm. The company was an ideal place for me to apply my training and development skills. While there I managed all development and professional service related activities. I was heavily involved in the initial development of Rapid Intake's main product, an eLearning authoring tool, which eventually lead to Rapid Intake's acquisition in 2011 by Callidus Software.In addition to JavaScript technologies, I have dabbled in other web technologies such as ActionScript, ASP, PHP, HTML, and CSS.",
+    "Total students": "26,284",
+    "Reviews": "3,443",
+    "Website": "http://www.allthingsjavascript.com",
+    "Facebook": "",
+    "Twitter": "https://twitter.com/JavaScriptThing",
+    "LinkedIn": "https://linkedin.com/in/steven-w-hancock",
+    "Youtube": "https://www.youtube.com/channel/UCRQhZGXC0WK85YRXl7nGX0w",
+    "Number of courses": "8",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "http://www.allthingsjavascript.com"
+      },
+      {
+        "channel_id": 8,
+        "link": "https://twitter.com/JavaScriptThing"
+      },
+      {
+        "channel_id": 5,
+        "link": "https://linkedin.com/in/steven-w-hancock"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/channel/UCRQhZGXC0WK85YRXl7nGX0w"
+      }
+    ],
+    "students": 26284
+  },
+  {
+    "Name": "Desmond Oben .A",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/55029350_eaa4_5.jpg",
+    "Title": "Javascript Mentor, Instructor and Freelance Software Dev",
+    "Bio": "I am an enthusiast who is keen on IT and anything about it since my first steps to High School. During the past few years, I gained lots of experience in this field due to the strong desire of becoming an expert in my field. I'm pretty swift at learning new technologies which has contributed to my adaptive skills, easily adapting to new environments and new tech.“For me, web development is more than coding. It's a canvas with a blank page and I am the artist to paint it with colors of coding”.",
+    "Total students": "2,090",
+    "Reviews": "49",
+    "Website": "https://codewithdesmond.com",
+    "Facebook": "",
+    "Twitter": "https://twitter.com/oben_ako",
+    "LinkedIn": "https://linkedin.com/in/obendesmond/",
+    "Youtube": "https://www.youtube.com/@codewithdesmond",
+    "Number of courses": "1",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "https://codewithdesmond.com"
+      },
+      {
+        "channel_id": 8,
+        "link": "https://twitter.com/oben_ako"
+      },
+      {
+        "channel_id": 5,
+        "link": "https://linkedin.com/in/obendesmond/"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/@codewithdesmond"
+      }
+    ],
+    "students": 2090
+  },
+  {
+    "Name": "Muslim Helalee",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/85076672_96f3_2.jpg",
+    "Title": "Full Stack Web Developer and Instructor",
+    "Bio": "Hi Everyone!I am super excited to be here among the most well-known and vibrant community on the planet. Udemy is all about knowledge and how to utilize in an efficient manner.Well, I don't come from a Computer Science or Software Engineering kind of background. I have studied Mechanical Engineering. But, due to my passion and love for coding, I got into programming right after I graduated.I come from a very poor family and country and it is very hard to find quality education in Afghanistan especially in the CS/SE field. You can imagine how hard it has been to get to where I am today. After I came back to my country, I started teaching Web Development with the goal of helping those who love to code, who love to create something amazing but are unable because of their circumstances. After almost 5 years of coding and teaching, I thought it was time to up my game, and step into big leagues to target international students, and there is no better platform to start and grow with than Udemy.I have published six volumes of Microsoft Office Tutorial Books locally in two provinces of Afghanistan. I believe in life-long learning and I am here to be a part of it with Udemy globally.I really appreciate you taking the time to read this and deciding whether or not to choose my courses. Your support will help me create more courses internationally and extend my reach in Afghanistan as well.Thank you so much:)Love from AfghanistanMuslim Helalee",
+    "Total students": "9,832",
+    "Reviews": "1,805",
+    "Website": "",
+    "Facebook": "",
+    "Twitter": "https://twitter.com/evo_learning",
+    "LinkedIn": "https://linkedin.com/in/evolutive-learning-b44530205",
+    "Youtube": "https://www.youtube.com/channel/UCEsOe19aGFcM31zLG2M2sXw",
+    "Number of courses": "6",
+    "Channels": [
+      {
+        "channel_id": 8,
+        "link": "https://twitter.com/evo_learning"
+      },
+      {
+        "channel_id": 5,
+        "link": "https://linkedin.com/in/evolutive-learning-b44530205"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/channel/UCEsOe19aGFcM31zLG2M2sXw"
+      }
+    ],
+    "students": 9832
+  },
+  {
+    "Name": "Bluelime Learning Solutions",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/16262298_0eed_8.jpg",
+    "Title": "Learning made simple",
+    "Bio": " Bluelime is UK based and creates quality easy to understand  eLearning  solutions .All our courses are 100% video based. We teach hands –on- examples  that teach real life skills .Bluelime has engaged in various types of projects for fortune 500 companies and understands what is required to prepare students with the relevant skills they need.",
+    "Total students": "755,978",
+    "Reviews": "38,940",
+    "Website": "https://bluelimelearningsolutions.com",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "445",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "https://bluelimelearningsolutions.com"
+      }
+    ],
+    "students": 755978
+  },
+  {
+    "Name": "Team Python",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/67983425_17e0.jpg",
+    "Title": "Engineer and Data Scientist",
+    "Bio": "I am a Software Engineer and have been coding since Grade 9. I have built many 2D and 3D games using most Powerful Game Engines like Unity3D, SDL2, LibgdxI am also a master of Coding in Android, C++, Java, Python and scripting languages which are used for designing Webpages like HTML5, JavaScript and PHP.I love to teach the newbies and also the professionals. I always try to teach something new and in-demand topics to my students.  I teach with passion and purpose! Every course is delivered with my students in mind. I found that udemy is helping those who want to learn. so that's why I'm here.",
+    "Total students": "5,941",
+    "Reviews": "660",
+    "Website": "",
+    "Facebook": "https://www.facebook.com/https://www.facebook.com/groups/331934747627096/?ref=group_header",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "4",
+    "Channels": [
+      {
+        "channel_id": 7,
+        "link": "https://www.facebook.com/https://www.facebook.com/groups/331934747627096/?ref=group_header"
+      }
+    ],
+    "students": 5941
+  },
+  {
+    "Name": "Dev Ed",
+    "Photo": "https://img-b.udemycdn.com/user/200_H/31950696_5962.jpg",
+    "Title": "Creative Teacher",
+    "Bio": "Dev Ed is a multimedia content creator with over 200k subscribers on youtube.Teaching you a wide range of technologies from Web Development all the way to design, 3D and more!My goal is to explain to you hard to understand topics in a simple fun and friendly way.Learning new skills is one of the most important things we can do, so let's make it fun while we are at it.Hope you enjoy your stays!",
+    "Total students": "7,423",
+    "Reviews": "1,579",
+    "Website": "https://developedbyed.com/",
+    "Facebook": "",
+    "Twitter": "https://twitter.com/developedbyed",
+    "LinkedIn": "",
+    "Youtube": "https://www.youtube.com/deved",
+    "Number of courses": "2",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "https://developedbyed.com/"
+      },
+      {
+        "channel_id": 8,
+        "link": "https://twitter.com/developedbyed"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/deved"
+      }
+    ],
+    "students": 7423
+  },
+  {
+    "Name": "Holczer Balazs",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/837576_7691_2.jpg",
+    "Title": "Software Engineer",
+    "Bio": "My name is Balazs Holczer. I am from Budapest, Hungary. I am qualified as a physicist. At the moment I am working as a simulation engineer at a multinational company. I have been interested in algorithms and data structures and its implementations especially in Java since university. Later on I got acquainted with machine learning techniques, artificial intelligence, numerical methods and recipes such as solving differential equations, linear algebra, interpolation and extrapolation. These things may prove to be very very important in several fields: software engineering, research and development or investment banking. I have a special addiction to quantitative models such as the Black-Scholes model, or the Merton-model.Take a look at my website if you are interested in these topics!",
+    "Total students": "270,468",
+    "Reviews": "34,842",
+    "Website": "http://globalsoftwaresupport.com/",
+    "Facebook": "https://www.facebook.com/globalsoftwarealgorithms",
+    "Twitter": "",
+    "LinkedIn": "https://linkedin.com/in/balazs-holczer-58182a7b",
+    "Youtube": "https://www.youtube.com/channel/UCf384jbgMwUJwy4-5VR5aQQ?sub_confirmation=1",
+    "Number of courses": "32",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "http://globalsoftwaresupport.com/"
+      },
+      {
+        "channel_id": 7,
+        "link": "https://www.facebook.com/globalsoftwarealgorithms"
+      },
+      {
+        "channel_id": 5,
+        "link": "https://linkedin.com/in/balazs-holczer-58182a7b"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/channel/UCf384jbgMwUJwy4-5VR5aQQ?sub_confirmation=1"
+      }
+    ],
+    "students": 270468
+  },
+  {
+    "Name": "Victor Simion",
+    "Photo": "https://img-b.udemycdn.com/user/200_H/16773852_6178.jpg",
+    "Title": "Web Developer",
+    "Bio": "Hi, I am Victor and I work as a Web Developer. I finished Computer Engineering and I have a passion for programming. I like learning new things everyday.\nI work mainly using the following technologies: HTML, CSS, Bootstrap, Javascript, jQuery, PHP.\nAnd I mostly develop websites using WordPress.\nI have a passion to share my knowledge to others and help them achieve their success. I think my teaching style is accessible for absolute beginners as well as for the experienced ones. \n",
+    "Total students": "8,801",
+    "Reviews": "194",
+    "Website": "",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "4",
+    "Channels": [],
+    "students": 8801
+  },
+  {
+    "Name": "Data Scientist",
+    "Photo": "https://img-b.udemycdn.com/user/200_H/60983278_beea.jpg",
+    "Title": "Software Engineer, Data Scientist and Entrepreneur",
+    "Bio": "I am a Software Engineer, Data Scientist and have been coding since Grade 9. I have a tonnes of experience in programming languages like Python, C++, Java, Javascript, C# etc. I have made a lot of popular games using some of the most popular engines like SDL2, OpenGL, UNITY etc. I have made a lot of types of websites using FLASK, DJango, Laravel. Node JS etc . My goal in life is NOT to restrict knowledge to myself but to teach as much as hungry students so that they can also accomplish their life goals.I love to teach the newbies and also the professionals. I always try to teach something new and in-demand topics to my students.  I teach with passion and purpose! Every course is delivered with my students in mind. I found that Udemy is helping those who want to learn so that's why I'm here.",
+    "Total students": "8,159",
+    "Reviews": "846",
+    "Website": "https://onlinebusinessbuilderchallenge.com/enter/free-challenge?aid=33645&tid=sc",
+    "Facebook": "https://www.facebook.com/https://web.facebook.com/groups/331934747627096/?ref=bookmarks",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "4",
+    "Channels": [
+      {
+        "channel_id": 2,
+        "link": "https://onlinebusinessbuilderchallenge.com/enter/free-challenge?aid=33645&tid=sc"
+      },
+      {
+        "channel_id": 7,
+        "link": "https://www.facebook.com/https://web.facebook.com/groups/331934747627096/?ref=bookmarks"
+      }
+    ],
+    "students": 8159
+  },
+  {
+    "Name": "AM Learning",
+    "Photo": "https://img-c.udemycdn.com/user/200_H/132312682_236c_3.jpg",
+    "Title": "Developer and Instructor",
+    "Bio": "I am an Advanced Full Stack Web Developer with 10+ years of experience in Full Stack Web Development.I am also an Online Instructor and I teach web development and business writing to more than 14,000 global students based on multiple global platforms. I am more focused on doing more creative stuff and presentations. Teaching is what I love doing.With a BSc degree in Computer Science, I have a full understanding of the full life cycle of a software development project. I also have experience in learning and excelling at new technologies as needed.The key strengths that I possess for success in this career include:I have successfully designed, developed, and supported live use applications. I taught a lot of students and helped them with starting their job careers.I strive for continued excellence.Thank you for taking the time to check out my profile!",
+    "Total students": "13,967",
+    "Reviews": "436",
+    "Website": "",
+    "Facebook": "",
+    "Twitter": "",
+    "LinkedIn": "",
+    "Youtube": "",
+    "Number of courses": "13",
+    "Channels": [],
+    "students": 13967
   }
 ]

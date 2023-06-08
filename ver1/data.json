@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Maximilian Schwarzmüller",
+    "description": "I'm here to help you learn, achieve your dreams, come join me on this amazing adventure todayGoogle Developers Expert - GSuite Providing Web development courses and digital marketing strategy courses since 2002.Innovative technology expert with a wide range of real world experience. Providing Smart digital solutions online for both small and enterprise level businesses.\"I have a passion for anything digital technology related, enjoy programming and the challenge of developing successful digital experiences. As an experienced developer, I created my first computer applications in 1990, and my first website in 1998.  I enjoy sharing my knowledge with others and want to help you share in the wonderful opportunities that the internet provides.\"\"Learning, understanding with a strong passion for education.  The internet has provided us with new opportunities to expand and share knowledge.\"Want to learn more about becoming a web developer, do you want to experience the freedom that technology provides for us? Learn how to bring amazing things to life online.  Technology connects us all in many ways.  It opens up doors to those who embrace it and learn how to make those connections real.\"My courses are designed to help you achieve your goals, learn and update skills\"Background : An experienced web application developer, having worked on multiple enterprise level applications, hundreds of websites, business solutions and many unique and innovative web applications.  Web application development areas of expertise include HTML, CSS, JavaScript, JQuery, Bootstrap, PHP and MySQL. Anything to do with web creation and digital experience. Passionate about everything to do with web application development, programming to online marketing with a strong focus on social media and SEO. \"Understanding technology provides a means to better connect with users.  It also opens so many doors.   Knowledge is the key to success and I want to help you experience what technology has to offer. I'm passionate about web technologies, and look forward to sharing my knowledge and experience with you!\"",
+    "photo": "https://img-b.udemycdn.com/user/200_H/2644062_68a5.jpg",
+    "social_links": [
+      {
+        "channel_id": 2,
+        "link": "https://academind.com/"
+      },
+      {
+        "channel_id": 8,
+        "link": "https://twitter.com/maxedapps"
+      },
+      {
+        "channel_id": 7,
+        "link": "https://www.facebook.com/academindchannel"
+      },
+      {
+        "channel_id": 5,
+        "link": "https://linkedin.com/in/maximilian-schwarzmueller"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/c/academind"
+      }
+    ]
+  },
+  {
+    "name": "Jonas Schemdtmann",
+    "description": "Hi, I'm Jonas! I'm one of Udemy's Top Instructors and all my premium courses have earned the best-selling status for outstanding performance and student satisfaction.",
+    "photo": "https://img-b.udemycdn.com/user/200_H/2644062_68a5.jpg",
+    "social_links": [
+      {
+        "channel_id": 2,
+        "link": "https://codingheroes.io/"
+      },
+      {
+        "channel_id": 8,
+        "link": "https://twitter.com/jonasschmedtman"
+      },
+      {
+        "channel_id": 1,
+        "link": "https://www.youtube.com/@jonasschmedtmann"
+      }
+    ]
+  }
+]

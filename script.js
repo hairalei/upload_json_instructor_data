@@ -1,7 +1,15 @@
-const data = require('./test.json');
+const data = require('./sample.json');
 const fs = require('fs');
+console.log(data.length);
+
+function removeHtmlTags(htmlString) {
+  const plainText = htmlString.replace(/<[^>]*>?/gm, '');
+  return plainText;
+}
 
 const channelsObj = {};
+const links = [];
+const uniqueBios = [];
 
 const get_channels = async () => {
   const res = await fetch(
@@ -12,6 +20,7 @@ const get_channels = async () => {
   // This will create a channelsObj with this format with names as keys and ids as values {youtube: 1, website: 2}
   jsonData.forEach((channel) => {
     channelsObj[channel.name.toLowerCase()] = channel.id;
+    links.push(channel.name.toLowerCase());
   });
 };
 
@@ -20,26 +29,45 @@ get_channels()
     // For every data of instructors, it will update the "social_links" to "channels" with the correct format like in Xano
 
     data.forEach((item) => {
-      const social_link = item.social_links;
-      const channels = [];
-
-      // This will create a channels array/list with this format [{channel_id: 1, link: www.youtube.com}, {channel_id: 2, link: www.website.com}]
-      for (const key in social_link) {
-        channels.push({ channel_id: channelsObj[key], link: social_link[key] });
+      if (uniqueBios.includes(item.Bio)) {
+        item['unique'] = false;
+        return;
       }
 
-      item['social_links'] = channels;
+      uniqueBios.push(item.Bio);
+
+      const channels = [];
+
+      for (const [key, value] of Object.entries(item)) {
+        if (links.includes(key.toLowerCase()) && value.length > 3) {
+          channels.push({
+            channel_id: channelsObj[key.toLowerCase()],
+            link: value,
+          });
+        }
+
+        if (key === 'Bio') {
+          const bio = removeHtmlTags(value);
+          item['Bio'] = bio;
+        }
+      }
+
+      item['Channels'] = channels;
+      item['students'] = Number(item['Total students'].replace(',', ''));
     });
   })
   .catch((err) => console.log(err))
   .finally(() => {
-    const jsonData = JSON.stringify(data, null, 2); // Convert data to JSON string with indentation
+    const newData = data.filter((item) => !item.hasOwnProperty('unique'));
+
+    const jsonData = JSON.stringify(newData, null, 2); // Convert data to JSON string with indentation
 
     fs.writeFile('data.json', jsonData, 'utf8', (err) => {
       if (err) {
         console.error('Error writing JSON file:', err);
       } else {
         console.log('JSON file created successfully');
+        console.log(newData.length);
       }
     });
   });
