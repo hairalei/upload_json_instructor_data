@@ -20,16 +20,24 @@
 1. Go to this [Xano api endpoint](https://x8ki-letl-twmt.n7.xano.io/admin/workspace/35925-0/api/105602/query/1075336)
 2. Click the create variable step 1 `var:json` in the function stack and delete it
 3. Click the add button on the function stack, click data manipulation then add variable.
+
    ![xano image](images/2.png)
    ![xano image](images/2-1.png)
 
 4. Input `json` as variable name and then for the value, click action and import json.
+
    ![xano image](images/3.png)
+
 5. Paste the `data.json` from [**How to run step 6**](#how-to-run)
 6. Hover the created variable til the left icon shows and drag it all the way to step 1
+
    ![xano image](images/4.png)
    ![xano image](images/5.png)
+
 7. Click the create variable `var:data` on step 2 of function stack. On the value, click VAR and choose the `json` var.
+
    ![xano image](images/6.png)
+
 8. Click `Run & Debug` on the upper right side and then click `Run`. This will upload the json to the database.
+
    ![xano image](images/7.png)
